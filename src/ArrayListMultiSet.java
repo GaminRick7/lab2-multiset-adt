@@ -73,7 +73,7 @@ public class ArrayListMultiSet extends MultiSet {
     @Override
     int size() {
 
-        return lst.size();
+        return lst.size(); //return the list size
     }
 }
 
